@@ -1,7 +1,7 @@
 {
-    "name": "vmvltrshso",
-    "description": "vmvltrshso",
-    "keywords": ["vmvltrshso"],
+    "name": "xbbst",
+    "description": "xbbst",
+    "keywords": ["xbbst"],
     "env": {
          "PROTOCOL": {
             "description": "path路径说明:（斜杠/）+（自定义UUID）+（减号-）+（对应协议开头两小写字母：vl或vm或tr或sh或so）",
@@ -15,7 +15,7 @@
         },
         "UUID": {
             "description": "请输入自定义UUID（vless-ws与vmess-ws为用户ID，trojan-ws与shadowsocks-ws为密码，socks5-ws用户名密码为空）",
-            "value": "",
+            "value": "b644ce56-0604-11ed-b939-0242ac120002",
             "required": true
         }  
     },
